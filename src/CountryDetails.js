@@ -15,7 +15,7 @@ function Item({ match }) {
 
     return (
         <div>
-            <h1>{item.capital}</h1>
+            <h3>{item.capital}</h3>
 
         </div>
     );
